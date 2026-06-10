@@ -1,4 +1,6 @@
 [package]
+description = "ternary-petri - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-petri"
 name = "ternary-petri"
 version = "0.1.0"
 edition = "2021"
